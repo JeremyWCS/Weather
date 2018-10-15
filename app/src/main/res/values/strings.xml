@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="URL"><![CDATA[https://api.openweathermap.org/data/2.5/forecast?q=Toulouse&appid=]]></string>
+</resources>
